@@ -1,0 +1,14 @@
+[
+    {
+        "role":"edwinhe.com",
+        "company":"Edwin He's Website",
+        "summary":"Personal website\n- Create a personal portfolio website using Hugo\n- Deploy globally using Cloudflare\n- Mobile-friendly with a responsive design",
+        "range":"Oct. 2024 – Present"
+    },
+    {
+        "role":"tricitybandcorps.org",
+        "company":"Tri-City Band Corps",
+        "summary":"Web development for a 501(c)(3) nonprofit dedicated to providing free music education\n- Add new pages such as collaboration promotions for local businesses, and a list of certified music teachers\n- Created and integrated a webstore using Ecwid\n- Edit video media for organization Youtube account and website\n- Coordinate with different departments to keep website up to date",
+        "range":"Aug. 2021 – May 2024"
+    }
+]

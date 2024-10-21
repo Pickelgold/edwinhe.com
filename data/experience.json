@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Hacker Fab Officer",
+        "company":"UC Irvine Institute of Printed Circuits",
+        "summary":"Student-developed and run semiconductor fab.\n- Coordinate with board members to recruit members for semiconductor fab and create leadership structure\n- Develop documentation using semiconductor industry best practices for the spin-coater and lithostepper\n- Test methods for stepper alignment and trial lithostepper code in simulated environment",
+        "range":"Sep. 2024 – Present"
+    },
+    {
+        "role":"Private Music Teacher ",
+        "company":"Emerett and Lin",
+        "summary":"Music teacher for elementary and middle school clarinet players\n- Instruct students in clarinet technique, tone, and repertoire, arranging and annotating music\n- Communicate with parents and band directors to ensure adequate preparation for solos and competitions",
+        "range":"Sep. 2023 – Present"
+    },
+    {
+        "role":"Technology Officer",
+        "company":"Tri-City Band Corps",
+        "summary":"Update and maintain website for 501(c)3 nonprofit, tricitybandcorps.org\n- Spearhead the creation of a webstore to support fundraising efforts\n- Leverage Salesforce to create marketing campaigns and send regularly scheduled newsletters\n- Collaborate with businesses and sponsors to promote local music stores and match donations",
+        "range":"Aug. 2021 – May 2024"
+    }
+]

@@ -1,0 +1,14 @@
+[
+  {
+      "grouping":"Languages",
+      "skills":[ "Java","Python","C++","Bash", "JavaScript", "HTML/CSS"]
+  },
+  {
+      "grouping":"Frameworks",
+      "skills":[ "Electron", "GTK", "Qt", "React"]
+  },
+  {
+      "grouping":"Developer Tools",
+      "skills":[ "Git", "Docker", "Proxmox", "Linux", "Cloudflare", "VS Code", "Jetbrains"]
+  }
+]

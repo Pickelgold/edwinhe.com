@@ -1,0 +1,32 @@
+title = "Edwin He"
+baseURL = "https://edwinhe.com/"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Dublin, CA"
+email = "ehe7@uci.edu"
+favicon = "/favicon.ico"
+firstName = "Edwin"
+lastName = "He"
+profileImage = "img/edwin.jpg"
+showQr = false
+showContact = false
+sections = ["education", "experience", "projects", "skills"]
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/edwin-he-a2463b270/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/Pickelgold/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
